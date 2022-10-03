@@ -1,0 +1,17 @@
+.presentation-card {
+    background-color: white;
+    padding: 1rem;
+    width: min(400px, 100%);
+    aspect-ratio: 16/9;
+    border-radius: 0.25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.presentation-card img {
+    width: 50%;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+}
