@@ -6,7 +6,7 @@
 * 01- Hola Mundo 
 
 ## General Information
-- Simple and differents React Exercises in JS
+- Simple and differents React Exercises in JS + Vite
 
 ## Project Status
 In Progress!! :stuck_out_tongue_closed_eyes:
