@@ -1,0 +1,15 @@
+.tooltip-text {
+    display: inline-block;
+    text-decoration: underline;
+    color: red;
+}
+
+.tooltip{
+    position: absolute;
+    background-color: #000;
+    color: #FFF;
+    padding: 5px 10px;
+    border-radius: 5%;
+    font-size: 14px;
+    line-height: 1.4;
+}
